@@ -1,0 +1,256 @@
+<!doctype html>
+<html>
+<head>
+  {% include head.html %}
+</head>
+<body class="page-template page-template-templates page-template-about-us page-template-templatesabout-us-php page page-id-547 no-avatars">
+<header>
+  <div id="topBanner">
+    <!--Start topBanner-->
+
+
+    <div class="top_header">
+      <div class="textwidget">
+      <div class="wrapper">
+      <div class="headerLeft">
+        <!--start headerLeft-->
+        <div class="phone">(+61) 451711219 </div>
+
+
+      </div>
+
+      <!--End headerLeft-->
+
+      <div class="headerRight">
+        <!--start headerRight-->
+        <div class="topMenu">
+          <!--start topMenu-->
+          <ul>
+            <li>
+              <a href="/careers/">Careers</a>|</li>
+            <li>
+              <a href="/testimonials/">Testimonials</a>
+          </li>
+          </ul>
+          <div class="social-links">
+            <!--start social-links-->
+            <div class="social-icon">
+              <a href="https://www.facebook.com/pages/Connect2OZweb/139205586146142?ref=tn_tnmn" class="fb-icon">
+            </a>
+          </div>
+            <div class="social-icon">
+              <a href="https://twitter.com/connect2ozweb" class="tw-icon">
+            </a>
+          </div>
+            <div class="social-icon">
+              <a href="https://plus.google.com/" class="gp-icon">
+            </a>
+          </div>
+            <div class="social-icon">
+              <a href="https://www.linkedin.com" class="ld-icon">
+            </a>
+          </div>
+          </div>
+        </div>
+      </div>
+      <!--End headerRight-->
+    </div>
+  </div>
+    </div>            <div class="clear">
+    </div>
+
+    <!--End Wrapper-->
+    {% include nav.html %}
+    <!--End navbar-->
+    <div class="patten-banner">
+      <div class="wrapper">
+        <script type="text/javascript">var lsjQuery = jQuery;</script>
+        <script type="text/javascript"> lsjQuery(document).ready(function() { if(typeof lsjQuery.fn.layerSlider == "undefined") { lsShowNotice('layerslider_16','jquery'); } else { lsjQuery("#layerslider_16").layerSlider({skinsPath: '/wp-content/plugins/Layerslider/static/skins/'}) } }); </script>
+        <div class="ls-wp-fullwidth-container" style="height:577px;">
+          <div class="ls-wp-fullwidth-helper">
+          <div id="layerslider_16" class="ls-wp-container" style="width:1400px;height:577px;margin:0 auto;margin-bottom: 0px;">
+          <div class="ls-slide" data-ls=" transition2d: all;">
+          <img src="/wp-content/plugins/Layerslider/static/img/blank.gif" data-src="{{ page.sliderImg | relative_url }}" class="ls-bg" alt="We Value Quality ,Integrity and Efficiency" />
+   <!--     <h3 class="ls-l" style="top:0px;left:0px;white-space: nowrap;">Your Adwords Solution Provider</h3>-->
+      </div>
+      </div>
+      </div>
+      </div>            </div>
+        <!--End Wrapper-->
+    </div>
+    <!--End patten-banner-->
+    <!--End bannerBottom-->
+    <!--End Wrapper-->
+  </div>
+  <!--End topBanner-->
+</header>
+<!--start Inner Middle section-->
+
+<div class="innerMiddle">
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+    <div class="innerContent">
+
+        <script src="{{ 'assets/js/jquery-1.11.1.js' | relative_url }}">
+        </script>
+        <style>
+            .mmt_member_img > img {
+                width: 100%;
+            }
+        </style>
+        <div id="primary" class="content-area">
+            <div id="content" class="site-content" role="main">
+                <header class="entry-header">
+                    <span id="about-us">&nbsp;</span>
+                        {% assign pageTitleFirstdPart = page.title | truncatewords: 1 , "" %}
+                      {% assign pageTitleSecondPart = page.title | replace: pageTitleFirstdPart, "" %}
+                    <h1 class="entry-title">
+                      {{ pageTitleFirstdPart }}<span class="yellow">{{ pageTitleSecondPart }}</span>
+                    </h1>
+                </header>
+                <article id="post-545" class="post type-post status-publish format-standard hentry category-about-us">
+                    <div class="entry-content">
+                      {{ content }}
+                    </div>
+            <!--         .entry-content -->
+                </article>
+<!--                 #post -->
+                <div class="clear">&nbsp;</div>
+                <hr>
+                {% include partials/team.html %}
+            </div>
+<!--             #content -->
+        </div>
+   <!--      #primary -->
+
+    </div>
+<!--     End Inner Middle section -->
+    <div id="rightMenu">
+      <ul class="rightMenu">
+        {% for site-menu in page.menu %}
+        <li class="page_item ">
+                <a href="{{ site-menu.url }}"
+                {% if site-menu.class %}
+                     class="{{ site-menu.class }}"
+                {% endif %}
+                >{{ site-menu.name }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+   {% include partials/company_info.html %}
+    </div>
+</div>
+
+<div class="clear"></div>
+<br>
+
+  <!--End Inner Middle section-->
+
+
+<!--Start footer section-->
+{% include footer.html %}
+
+
+
+<!--script for Tabber-->
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery(".tabs-menu a").click(function(event) {
+      event.preventDefault();
+      jQuery(this).parent().addClass("current");
+      jQuery(this).parent().siblings().removeClass("current");
+      var tab = jQuery(this).attr("href");
+      jQuery(".tab-content").not(tab).css("display", "none");
+      jQuery(tab).fadeIn();
+    });
+
+    jQuery('.img-link-initial').delay(100).queue(function(){
+      jQuery(this).css({"display":"block"});
+
+    });
+
+
+    jQuery(function() {
+      jQuery('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : jQuery('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            jQuery('html,body').animate({
+              scrollTop: target.offset().top
+            }, 500, 'swing');
+            return false;
+          }
+        }
+      });
+    });
+
+    var i=0;
+
+    jQuery('.afp-single-item').find('.mask').each(function() {
+      var href = jQuery(this).find("a:nth-child(1)").attr('href');
+      jQuery(this).find("a").addClass('hidnext');
+      if (href == '') {
+        jQuery(this).find('.link').css( "display", "none" );
+        jQuery(this).find('.mask_link').replaceWith(function(){
+          return jQuery("<span class='mask_link'>" + jQuery(this).html() + "</span>");
+        });
+      }
+    });
+
+
+  });
+</script>
+<script>
+  jQuery(function() {
+    var pull 		= jQuery('#pull');
+    menu 		= jQuery('nav ul');
+    menuHeight	= menu.height();
+
+    jQuery(pull).on('click', function(e) {
+      e.preventDefault();
+      menu.slideToggle(10,"linear");
+      //submenu.slideToggle();
+      //menu.slideDown();
+    });
+
+
+    jQuery('.menu ul li:nth-child(2) ul.sub-menu li a, .menu ul li:nth-child(2) a').click(function(){
+      window.setTimeout(function() { menu.slideToggle() }, 100);
+    });
+
+    jQuery(window).resize(function(){
+      var w = jQuery(window).width();
+      if(w > 320 && menu.is(':hidden')) {
+        menu.removeAttr('style');
+      }
+    });
+  });
+</script>
+
+
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+  var cfflinkhashtags = "false";
+</script>
+<script type='text/javascript' src='/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js'>
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'>
+</script>
+<script type='text/javascript' src='/wp-content/plugins/jquery-validation-for-contact-form-7/js/jquery.validate.min.js'>
+</script>
+<script type='text/javascript' src='/wp-content/plugins/jquery-validation-for-contact-form-7/js/jquery.jvcf7_validation.js'>
+</script>
+<script type='text/javascript' src='/wp-includes/js/comment-reply.min.js'>
+</script>
+<script type='text/javascript' src='/wp-content/themes/connect2ozweb/js/functions.js'>
+</script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js'>
+</script>
+
+</body>
+</html>
