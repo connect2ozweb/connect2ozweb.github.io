@@ -2,176 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45142fab-b03d-48fe-995b-93555df0a185" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/2bonita/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2bonita/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change beforePath="$PROJECT_DIR$/about-us/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/about-us/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allorvaporizers/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/aquacenterswimschool/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/author/admin/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/author/admin/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/author/admin/page/2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/author/admin/page/3/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/author/fatima/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/author/fatima/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bella-quinceaner-adresses/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bella-quinceaner-adresses/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=22" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=22.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=24" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=24.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=25" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=25.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=26" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/best-web-design-in-melbourne/index.html?replytocom=26.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blog/feed/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/blog.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/page/2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/branding-solutions/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/careers/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/casalina-title/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/casalina-title/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/about-us/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/about-us/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/blog/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/blog/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/home-services/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/home-services/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/portfolio/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/portfolio/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/portfolio/page/2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/digital-strategy/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/digital-strategy/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/seo-services/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/seo-services/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/seo-services/seo-service-3/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/seo-services/seo-service-3/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/seo-services/seo-service-4/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/seo-services/seo-service-4/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/website-design/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/website-design/flash-presentations/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/website-design/flash-presentations/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/website-design/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/website-development/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/services/website-development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/uncategorized/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/category/uncategorized/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/comments/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact-us/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact-us/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content-writing/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/corporate-websites/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/corporate-websites/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/creative-marketing-website/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/creative-marketing-website/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digital-strategy/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digital-strategy/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digital-strategy/index.html?replytocom=21" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digital-strategy/index.html?replytocom=21.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digital-strategy/index.html?replytocom=31" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/digital-strategy/index.html?replytocom=31.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-sites/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-sites/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flash-presentations/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flash-presentations/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hello-world/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hello-world/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hussy-punter/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hussy-punter/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/contact-us/index.html" afterPath="$PROJECT_DIR$/contact-us/index.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/lazylifeparis/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lazylifeparis/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logo-designing/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logo-designing/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/marcellpt101/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/marcellpt101/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/marketing/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/marketing/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/meet-the-team/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/meet-the-team/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mobile-applications/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mx-gamebeforethegame/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nelsongonzalez/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/online-brochure/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/online-brochure/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/online-stores/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/online-stores/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/privacy-policy/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/realit-logo/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/realit-logo/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/responsive-site-and-viewport-tag/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/responsive-site-and-viewport-tag/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-service-3/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-service-4/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-service-4/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-services-2/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-services-2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-services/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-vs-sem/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seo-vs-sem/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/digital-strategy/android-and-iphone-application/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/digital-strategy/android-and-iphone-application/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/digital-strategy/corporate-branding-solution/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/digital-strategy/corporate-branding-solution/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/digital-strategy/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/digital-strategy/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/adwords/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/offsiteonsite/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/offsiteonsite/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/semantic-search/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/semantic-search/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/seo-services/why-seo/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/flash-presentations/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/flash-presentations/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/graphic-designing/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/graphic-designing/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/logo-designing/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/logo-designing/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/website-facebook-page-maintenance/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-design/website-facebook-page-maintenance/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/content-writing/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/content-writing/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/customized-web-development/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/customized-web-development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/domain-registration-and-web-hosting/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/domain-registration-and-web-hosting/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/php-asp-net-vb-net-development/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/php-asp-net-vb-net-development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/web-security/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/web-security/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/wordpress-development/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services/website-development/wordpress-development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sternfit/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/terms-conditions/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testimonials/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/trinityrehab/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website-design-2/feed/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website-design-2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website-design/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website-development/index.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -185,7 +19,7 @@
       <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="3270">
               <caret line="218" column="14" lean-forward="false" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -208,7 +42,7 @@
       <file leaf-file-name="custom.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer/custom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="2190">
               <caret line="146" column="47" lean-forward="false" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="47" />
               <folding />
             </state>
@@ -218,8 +52,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="161" column="22" lean-forward="false" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+            <state relative-caret-position="135">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -240,11 +74,41 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact-us/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2437">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gos-jekyll-theme.gemspec" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gos-jekyll-theme.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-461">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -309,14 +173,14 @@
         <option value="$PROJECT_DIR$/_pages/about-us.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_layouts/portfolio.html" />
         <option value="$PROJECT_DIR$/_pages/contact-us.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
-        <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_includes/footer/custom.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/contact-us/index.html" />
       </list>
     </option>
@@ -346,17 +210,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="www.connect2ozweb.com.au" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.connect2ozweb.com.au" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www.connect2ozweb.com.au" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.connect2ozweb.com.au" type="462c0819:PsiDirectoryNode" />
-              <item name="_pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="www.connect2ozweb.com.au" type="b2602c69:ProjectViewProjectNode" />
@@ -372,8 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,23 +278,25 @@
       <workItem from="1519196877145" duration="2620000" />
       <workItem from="1519206018330" duration="1976000" />
       <workItem from="1519209479925" duration="4156000" />
+      <workItem from="1519215438845" duration="170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11346000" />
+    <option name="totallyTimeSpent" value="11516000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1602" height="873" extended-state="6" />
+    <frame x="-1" y="0" width="1602" height="873" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25933075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26254827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -459,16 +320,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_pages/services/website-design/flash-presentations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/services/website-design/graphic-designing.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -670,13 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gos-jekyll-theme.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -688,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
           <caret line="112" column="33" lean-forward="false" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,25 +557,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="93" lean-forward="false" selection-start-line="16" selection-start-column="93" selection-end-line="16" selection-end-column="93" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4035">
           <caret line="269" column="10" lean-forward="false" selection-start-line="269" selection-start-column="10" selection-end-line="269" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1519207443667" expanded="true" signature="8239:8276" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,7 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="185" column="12" lean-forward="false" selection-start-line="142" selection-start-column="6" selection-end-line="185" selection-end-column="12" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,10 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
           <caret line="58" column="12" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="58" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +611,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3">
             <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -806,7 +621,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -817,7 +631,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -828,23 +641,14 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="161" column="22" lean-forward="false" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="3270">
           <caret line="218" column="14" lean-forward="false" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -863,7 +667,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer/custom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="2190">
           <caret line="146" column="47" lean-forward="false" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="47" />
           <folding />
         </state>
@@ -879,10 +683,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gos-jekyll-theme.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-461">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact-us/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2437">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
